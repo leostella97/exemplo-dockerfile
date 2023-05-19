@@ -13,3 +13,4 @@
 	</ol>
 </table>
 
+Segue um <a href="https://github.com/leostella97/exemplo-dockerfile/blob/main/dockerfile">arquivo Dockerfile</a> de exemplo
